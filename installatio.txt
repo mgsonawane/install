@@ -1,0 +1,36 @@
+Complete flask installation
+
+https://flask.palletsprojects.com/en/1.1.x/installation/
+
+flask mysql install
+
+https://stackoverflow.com/questions/51228228/cannot-install-flask-mysqldb
+
+pip3 install
+sudo apt install python3-pip  
+
+unset proxy
+
+unnset http_proxy
+
+git 
+
+sudo apt-get install git
+
+git config --global user.name "mgsonawane"
+ git config --global user.email "mgsonawane5668@gmail.com"
+ cd practice/
+ ls
+ git init 
+ ls
+ git status 
+ git add -A 
+ git status
+ git clone https://github.com/mgsonawane/practice-codes.git
+ git remote add origin https://github.com/mgsonawane/practice-codes.git
+ git push origin master
+ git commit -m "initial commit"
+ git push origin master
+
+
+
